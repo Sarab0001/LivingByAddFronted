@@ -1,0 +1,104 @@
+// @import "../../css-config/mixins.scss";
+
+// .form {
+//   background-color: #007bff;
+//   margin-top: 20px;
+//   margin-left: 200px;
+//   margin-right: 0px;
+//   width: 1200px;
+//   padding: 2rem;
+//   background-color: white;
+//   border-radius: 8px;
+//   box-shadow: 8px 8px 8px 8px rgba(0.2, 0, 0, 0.1);
+
+//   .form-group {
+//     margin-bottom: 1.5rem;
+//     margin-right: 0px;
+
+//     label {
+//       display: block;
+//       margin-bottom: 0.5rem;
+//       font-weight: bold;
+//       color: #333;
+//     }
+
+//     .form-control {
+//       width: 100%;
+//       padding: 0.75rem;
+//       border: 1px solid #ddd;
+//       border-radius: 4px;
+//       font-size: 1rem;
+//       color: #555;
+//       transition: border-color 0.3s ease;
+
+//       &:focus {
+//         border-color: #007bff;
+//         outline: none;
+//         box-shadow: 0 0 4px rgba(0, 123, 255, 0.25);
+//       }
+
+//       &::placeholder {
+//         color: #aaa;
+//       }
+//     }
+
+//     textarea.form-control {
+//       height: 150px;
+//       resize: vertical;
+//     }
+//   }
+
+//   .buttons {
+//     text-align: right;
+
+//     .form-buttons {
+//       background-color: #8e2de2;
+//       color: white;
+//       border: none;
+//       padding: 0.75rem 1.5rem;
+//       border-radius: 4px;
+//       font-size: 1rem;
+//       cursor: pointer;
+//       transition: background-color 0.3s ease;
+
+//       &:hover {
+//         background-color: #0056b3;
+//       }
+
+//       &:focus {
+//         outline: none;
+//         box-shadow: 0 0 4px rgba(0, 123, 255, 0.25);
+//       }
+//     }
+//   }
+
+//   @media only screen and (max-width: 1200px) {
+//     width: 100%;
+//     display: block;
+//     margin-left: 0;
+//     margin-right: 0;
+//   }
+
+//   @media only screen and (max-width: 768px) {
+//     padding: 1rem;
+//   }
+
+//   @media only screen and (max-width: 576px) {
+//     .form-group {
+//       .form-control {
+//         padding: 0.5rem;
+//         font-size: 0.875rem;
+//       }
+//     }
+
+//     .buttons {
+//       text-align: center;
+
+//       .form-buttons {
+//         width: 100%;
+//         padding: 0.5rem;
+//         font-size: 0.875rem;
+//       }
+//     }
+//   }
+// }
